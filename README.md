@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff6a00&height=170&section=header&text=VINAY&fontSize=60&fontColor=ff6a00&animation=twinkling&fontAlignY=38&desc=DEEP+LEARNING+%2F%2F+VIDEO+AI+%2F%2F+5G&descSize=15&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff6a00&height=170&section=header&text=VINAY+NISSIMAGOUDAR&fontSize=44&fontColor=ff6a00&animation=twinkling&fontAlignY=38&desc=DEEP+LEARNING+%2F%2F+VIDEO+AI+%2F%2F+5G&descSize=15&descAlignY=60" width="100%" />
 
 <br>
 
@@ -26,17 +26,33 @@
 
 ### `vinu2912@github ~ $ whoami`
 
+<table width="100%">
+<tr>
+<td width="32%" valign="top" align="center">
+
+<img src="./profile.jpg" width="270" alt="Vinay Nissimagoudar" />
+
+</td>
+<td width="68%" valign="top">
+
 ```
-NAME        :: Vinayswarup C Nissimagoudar (Vinay)
-STATUS      :: CSE Student @ KLE Technological University
+NAME        :: Vinay Nissimagoudar
+STATUS      :: 4th Year Engineering Student (CSE)
+               @ KLE Technological University
 LOCATION    :: Hubballi, Karnataka, India
-RESEARCH    :: Lightweight video encoders for AI-generated
-               video quality assessment (X3D, MobileNet-TSM)
+RESEARCH    :: Lightweight video encoders for
+               AI-generated video quality
+               assessment (X3D, MobileNet-TSM)
 EXPERIENCE  :: Deep Learning Intern @ NVIDIA
                (video model benchmarking)
-STACK       :: PyTorch · Docker · LangChain · MMAction2
-               Open5GS · UERANSIM
+STACK       :: PyTorch · Docker · LangChain
+               MMAction2 · Open5GS · UERANSIM
+EMAIL       :: vcngoudar@gmail.com
 ```
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -199,10 +215,8 @@ STACK       :: PyTorch · Docker · LangChain · MMAction2
 
 <br>
 
-<!-- Replace YOUR_LINKEDIN and YOUR_EMAIL below -->
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-ff6a00?style=for-the-badge&logo=linkedin&logoColor=ff6a00&labelColor=0d1117)](https://www.linkedin.com/in/YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-ff6a00?style=for-the-badge&logo=github&logoColor=ff6a00&labelColor=0d1117)](https://github.com/vinu2912)
-[![Email](https://img.shields.io/badge/EMAIL-PING_ME-ff6a00?style=for-the-badge&logo=gmail&logoColor=ff6a00&labelColor=0d1117)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/EMAIL-PING_ME-ff6a00?style=for-the-badge&logo=gmail&logoColor=ff6a00&labelColor=0d1117)](mailto:vcngoudar@gmail.com)
 
 </div>
 
