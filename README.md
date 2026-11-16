@@ -30,8 +30,7 @@
 <tr>
 <td width="32%" valign="top" align="center">
 
-<img src="./profile.jpg" width="270" alt="Vinay Nissimagoudar" />
-
+<img src="./vinay_profile_pic.jpeg" width="270" alt="Vinay Nissimagoudar" />
 </td>
 <td width="68%" valign="top">
 
