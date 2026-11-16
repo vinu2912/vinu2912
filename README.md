@@ -29,7 +29,7 @@
 <table width="100%">
 <tr>
 <td width="43%" valign="top">
-<img src="./vinay-ascii.svg" width="370" alt="Vinay Nissimagoudar, ASCII portrait" />
+<img src="./vinay-ascii_2.svg" width="370" alt="Vinay Nissimagoudar, ASCII portrait" />
 </td>
 <td width="57%" valign="top">
 <img src="./info-card.svg" width="490" alt="Profile info card" />
