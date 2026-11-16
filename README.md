@@ -28,27 +28,11 @@
 
 <table width="100%">
 <tr>
-<td width="32%" valign="top" align="center">
-
-<img src="./Screenshot 2026-11-16 232841.png" width="270" alt="Vinay Nissimagoudar" />
+<td width="43%" valign="top">
+<img src="./vinay-ascii.svg" width="370" alt="Vinay Nissimagoudar, ASCII portrait" />
 </td>
-<td width="68%" valign="top">
-
-```
-NAME        :: Vinay Nissimagoudar
-STATUS      :: 4th Year Engineering Student (CSE)
-               @ KLE Technological University
-LOCATION    :: Hubballi, Karnataka, India
-RESEARCH    :: Lightweight video encoders for
-               AI-generated video quality
-               assessment (X3D, MobileNet-TSM)
-EXPERIENCE  :: Deep Learning Intern @ NVIDIA
-               (video model benchmarking)
-STACK       :: PyTorch · Docker · LangChain
-               MMAction2 · Open5GS · UERANSIM
-EMAIL       :: vcngoudar@gmail.com
-```
-
+<td width="57%" valign="top">
+<img src="./info-card.svg" width="490" alt="Profile info card" />
 </td>
 </tr>
 </table>
