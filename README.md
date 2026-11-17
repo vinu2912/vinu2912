@@ -120,21 +120,21 @@
 
 ```
 ╔════════════════════════════════════════╗
-║  PROJECT  ::  NCC Attendance & Guard   ║
+║  PROJECT  ::  NCC Attendance System    ║
 ╠════════════════════════════════════════╣
 ║                                        ║
-║  STACK  ::  TypeScript                 ║
-║  TYPE   ::  Full Stack · Team          ║
+║  STACK  ::  TypeScript · Dart · Python ║
+║  TYPE   ::  Full Stack · Mobile · AI   ║
 ║                                        ║
-║  Attendance and guard system           ║
-║  built as a team project.              ║
-║                                        ║
+║  Attendance system with web portal,    ║
+║  Flutter app & face recognition.       ║
+║  Built as a team project.              ║
 ║                                        ║
 ║                                        ║
 ╚════════════════════════════════════════╝
 ```
 
-[→ View Repository](https://github.com/vinu2912/Division-D)
+[→ View Repository](https://github.com/vinu2912/NCC-Attendance-System)
 
 </td>
 </tr>
